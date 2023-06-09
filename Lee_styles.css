@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+html{
+	font-family:arial;
+	background-color:black;
+	color:white;
+}
+
+header{
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	color:white;
+	background-color: #ff0000;
+}
+
+main{
+	padding:5px;
+}
+
+form{
+	border-style:solid;
+}
+
+
+
+
+
+nav{
+	float:center;
+	width:25%;
+	color:white;
+}
+
+nav a{
+
+	color:white;
+	background-color:#ff0000;
+
+}
+
+
+button{
+	background-color:red;
+}
+
+
+footer{
+	margin:auto;
+	padding:10px;
+}
+
+
+	
+
+
+input{
+	margin:auto;
+	display:table;
+
+}
